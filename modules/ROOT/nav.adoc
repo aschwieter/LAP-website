@@ -1,1 +1,3 @@
 * xref:policy.adoc[]
+* xref:inpatient-quick-reference.adoc[]
+* xref:language-preference-identification.adoc[]

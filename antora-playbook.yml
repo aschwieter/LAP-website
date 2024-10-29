@@ -1,6 +1,6 @@
 site:
   title: Draft Language Access Plan for Inpatient and Ambulatory
-  start_page: project-name::index.adoc
+  start_page: LAP::index.adoc
 content:
   sources:
   - url: .
