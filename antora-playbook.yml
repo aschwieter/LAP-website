@@ -3,7 +3,7 @@ site:
   start_page: project-name::Inpatient and Ambulatory.adoc
 content:
   sources:
-  - url: ..
+  - url: .
     branches: HEAD
 ui:
   bundle:
