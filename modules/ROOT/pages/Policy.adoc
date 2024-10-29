@@ -1,0 +1,9 @@
+= Policy
+Cincinnati Children's
+v0.1, October 28, 2024
+:toc: auto
+:data-uri:
+:icons: font
+:toclevels: 3
+
+Cincinnati Children's is required by federal law to take reasonable steps to provide meaningful access to all our services for people who are deaf, hard of hearing, or use languages other than English (LOE). A formal description of these steps is provided in the https://cchmc.navexone.com/content/docview/?docid=9430[Language Access Policy MCP-F-106].

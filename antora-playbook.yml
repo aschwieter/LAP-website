@@ -1,6 +1,6 @@
 site:
-  title: Docs Site
-  start_page: project-name::Inpatient and Ambulatory.adoc
+  title: Draft Language Access Plan for Inpatient and Ambulatory
+  start_page: project-name::index.adoc
 content:
   sources:
   - url: .

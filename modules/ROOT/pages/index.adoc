@@ -1,0 +1,14 @@
+= Inpatient & Ambulatory Language Access Plan
+Cincinnati Children's
+v0.1, October 28, 2024
+:toc: auto
+:data-uri:
+:icons: font
+:toclevels: 3
+
+This language access plan enables us to provide equitable, consistent, and easily accessible support to patients and families who speak a language other than English (LOE) by giving:
+
+* Clear and simple expectations
+* Proper training
+* Translation guideline
+* Readily available assistance when needed

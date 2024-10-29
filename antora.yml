@@ -1,5 +1,5 @@
-name: project-name
+name: LAP
 version: ~
-title: Project Name
+title: Draft Language Access Plan for Inpatient and Ambulatory
 nav:
 - modules/ROOT/nav.adoc
