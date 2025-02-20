@@ -1,0 +1,35 @@
+= Language Preference Identification [[language-preference-id]]
+
+Ask:
+
+* “Do any of you speak languages other than English?”
+* If yes, ask one of these follow-up questions:
+** “Cincinnati Children's has free interpreters who are quickly available. What languages would you all want us to speak to you in?”
+** “Cincinnati Children's has free interpreters who are quickly available. What languages would you all like to use for medical conversations?”
+** “Cincinnati Children's has free interpreters who are quickly available. Will an interpreter be needed for this visit?”
+
+Communicate this language preference to other team members during handoffs.
+
+If someone is unable to say which language they speak:
+
+1. Use a language identification card (LINK NEEDED) or the list of languages on the <<video,Alvin>>.
+2. Call the <<phone,phone interpreter line>> and ask the operator to assist you in identifying the language.
+
+****
+icon:hospital[] _Acute/Critical Care_
+
+If anyone wants to use a non-English language, document their name, relationship, and the languages in a place that is visible to the care team (e.g. whiteboard in the patient's room).
+
+Repeat this process:
+
+* During long admissions
+* When a new caregiver arrives
+* Prior to obtaining consent
+* Whenever you think it is necessary
+
+****
+
+== Demographics in Epic
+For patients where at least one person sometimes wants to communicate in a language other than English, ensure the patient-level demographic fields have that language listed as "Preferred Language" and "Interpreter Needed" is set to "Yes."
+
+This is a patient-level field so it should reflect the family's needs for the future, not just a single visit.

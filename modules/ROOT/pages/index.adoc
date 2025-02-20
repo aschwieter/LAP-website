@@ -1,16 +1,6 @@
-= Inpatient & Ambulatory Language Access Plan
-Cincinnati Children's
-v0.1, October 28, 2024
-:toc: auto
-:data-uri:
-:icons: font
-:toclevels: 3
+= Introduction
 
-This language access plan enables us to provide equitable, consistent, and easily accessible support to patients and families who speak a language other than English (LOE) by giving:
+This language access plan contains Cincinnati Children's expectations for working with people who are deaf, hard of hearing, blind, or use a language other than English. It describes what we are able to do today. There are many <<qi,opportunities for improvement>>, but we must start with what is possible today. By doing what is described in this plan, we can pursue our potential so all kids can pursue theirs, even when someone in their family uses a language other than English.
 
-* Clear and simple expectations
-* Proper training
-* Translation guideline
-* Readily available assistance when needed
+Additionally, because communication is critical to providing safe care, so is language access.
 
-Use the menu on the left to navigate the plan.

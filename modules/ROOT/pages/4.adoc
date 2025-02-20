@@ -1,0 +1,26 @@
+= Home Health Quick Reference
+ 
+****
+icon:home[] _Home Health_
+
+[discrete]
+== Admission to HHC services
+* Meet with the patient and caregivers to <<language-preference-id,identify interpreter needs>> across the spectrum of HHC services. Document these preferences as applicable (case communication and care plan). 
+* If applicable, discuss when <<family-friend,patient/family/friends>> may interpret and complete form J1011.
+* Provide resources in preferred language as able: direct interpreter line phone number, HHC folder, consents, documents, Knowing Notes, and instructions.
+* As able, request urgent translation for critical home care procedure instructions.
+* Plan ahead to request in person interpreter for SOC visits as available.
+
+[discrete]
+== Working with live interpreters in the home
+* As they are available, prioritize live interpreters for start of care (SOC) visits, teaching procedures, and in areas of known poor cellular reception.
+* Plan to meet outside of the home and enter and leave together when possible.
+* Notify interpreter services of a changed or cancelled visit.
+* Plan in advance when scheduling rare language interpreter visits. 
+
+[discrete]
+== Working with a phone or video interpreter while in the home.
+* Use phone or video interpreters when a live interpreter is not available.  
+* Use speaker phone as able to limit handling of phone during hands on training or care. 
+
+****
