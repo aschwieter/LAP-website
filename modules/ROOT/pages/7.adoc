@@ -132,11 +132,14 @@ If giving these documents at Registration, tell the family we will ask the quest
 Useful translations include:
 
 
+* The https://www.cincinnatichildrens.org/patient-resources/app[Cincinnati Children's app] is available in Spanish and Arabic
+** https://atobe.app/photo-route?buildingId=30&homepage=true&routeLang=en[Wayfinding on the web] is also availabe in Spanish and Arabic, including QR codes for families to scan.
 * https://centerlink.cchmc.org/echirp/patient-family-ed/knowing-notes[Knowing Notes]
 * https://centerlink.cchmc.org/echirp/periop/perioperative-patient-family-education[Perioperative Patient & Family Education for Procedure (Surgery)]
 * https://www.cincinnatichildrens.org/patients/visit/visiting-guidelines/rights[Visitor Guide / Patient Rights & Responsibilities]
-* https://cchmc.navexone.com/content/Search/Documents[Consents for Surgical/Medical Procedure]
+* https://cchmc.navexone.com/content/Search/Documents[Forms and Consents for Surgical/Medical Procedure]
 * Cards for https://centerlink.cchmc.org/department/interpreter-services/dial-direct-interpreter-access-line[Direct Interpreter Access Lines] are available by from interpreterservices@cchmc.org
+* https://www.cincinnatichildrens.org/espanol/visitas-por-video/instrucciones[Spanish telehealth visit instructions]
 * icon:hospital[] Acute/Critical Care:
 ** https://centerlink.cchmc.org/echirp/nutrition/paper-menus[Patient menus]
 ** https://www.cincinnatichildrens.org/patient-resources/inpatient-visits[Family Guide]
@@ -167,7 +170,7 @@ Inpatient pharmacists can create bilingual MedActionPlans for patients with comp
 
 MyChart is currently not available in Spanish.
 
-Any Cincinnati Children's owned or purchased apps, webpages, or other digital communication with families should be designed to support English and Spanish within 12 months of going live. Additional languages can be considered on a case-by-case basis. Contact translations@cchmc.org for support.
+New Cincinnati Children's owned or purchased apps, webpages, or other digital communication should be designed to support Spanish for all patient- and family-facing communication within 12 months of going live. Additional languages and existing digital touchpoints can be considered on a case-by-case basis. Contact translations@cchmc.org for support.
 
 When the language you need isn't available, find a different way to provide the value of the app, webpage or digital communication.
 

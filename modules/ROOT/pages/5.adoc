@@ -7,6 +7,7 @@ Ask:
 ** “Cincinnati Children's has free interpreters who are quickly available. What languages would you all want us to speak to you in?”
 ** “Cincinnati Children's has free interpreters who are quickly available. What languages would you all like to use for medical conversations?”
 ** “Cincinnati Children's has free interpreters who are quickly available. Will an interpreter be needed for this visit?”
+** “Cincinnati Children's has free interpreters who are quickly available. In what language would you like to discuss your child's health care today?"
 
 Communicate this language preference to other team members during handoffs.
 

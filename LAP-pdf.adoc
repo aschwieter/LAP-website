@@ -4,6 +4,7 @@ v0.9 February 24, 2025
 :toc: auto
 :data-uri:
 :icons: image
+:inconset: fas
 :toclevels: 3
 :sectnums: all
 :doctype: book

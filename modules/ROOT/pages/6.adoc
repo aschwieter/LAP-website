@@ -187,7 +187,7 @@ _* It may take more than 45 minutes for these interpreters to arrive._
 icon:hospital[] _Acute/Critical Care_  icon:store[] _Ambulatory_  icon:radiation[] _Radiology_  icon:syringe[] _Periop_
 
 [discrete]
-==== Spanish & Arabic (CBDI Only) at Base during Business Hours
+==== Spanish & Arabic (CBDI Only) at Base during Business Hours [[service-tasks]]
 
 In-person Spanish & Arabic (CBDI only) interpreters are deployed in real-time, on-demand for Locations A-G & R-T on weekdays between 8am and 5pm.
 
@@ -227,7 +227,19 @@ icon:store[] _Ambulatory_  icon:syringe[] _Periop_
 
 [discrete]
 ==== All Other Languages, Times, or Locations
-Language Access Services automatically schedules in-person interpreters for Ambulatory and Periop encounters whenever possible LINK TO HOW LAS PRIORITIZES IN-PERSON INTERPRETERS.
+Language Access Services automatically schedules in-person interpreters for Ambulatory and Periop encounters whenever possible, prioritizing in the following order:
+
+1. Codes & traumas
+2. Rule out physical abuse (ROPA) and rule out sexual abuse (ROSA)
+3. Minors without parents or guardians who speak the same language
+4. End of life
+5. Forensic interviews (e.g. Mayerson Center)
+6. Mental health group settings (e.g. College Hill)
+7. Care conferences
+8. Rounds
+9. Aquatic therapy
+10. Shifts where interpreters are deployed on-demand (e.g. Emergency Department and <<service-tasks,Spanish & Arabic (CBDI Only) at Base during Business Hours>>)
+11. All other needs
 
 Do not re-schedule appointments because an in-person interpreter is not available. Work with a phone or video interpreter instead.
 
@@ -314,9 +326,9 @@ In an emergency involving an imminent threat to the safety or welfare of an indi
 
 Work with an interpreter when getting a patient from the waiting room if the patient or someone accompanying the patient would <<language-preference-id,prefer to communicate in a language other than English>>. "Wrong patient" safety events can result from miscommunication in the waiting room.
 
-== Groups, Events, and Conferences
+== Groups, Community Events, and Conferences
 
-It is complex to provide interpreting in large group settings such as events and conferences. Email mailto:interpreterservices@cchmc.org[interpreterservices@cchmc.org] to arrange a consult with Language Access Services about your event as early as possible.
+It is complex to provide interpreting in large group settings such as community events and conferences. Email mailto:interpreterservices@cchmc.org[interpreterservices@cchmc.org] to arrange a consult with Language Access Services about your event as early as possible.
 
 Possible solutions include simultaneous interpreting (https://en.wikipedia.org/wiki/Simultaneous_interpretation#Modes[with equipment or "whispered"]) and dedicated events conducted entirely in the language other than English.
 
