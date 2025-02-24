@@ -1,0 +1,37 @@
+= Language Access Plan
+Cincinnati Children's
+v0.9 February 24, 2025
+:toc: auto
+:data-uri:
+:icons: image
+:toclevels: 3
+:sectnums: all
+:doctype: book
+:leveloffset: 1
+:!chapter-signifier:
+
+
+
+include::modules/ROOT/pages/index.adoc[]
+
+include::modules/ROOT/pages/2.adoc[]
+
+include::modules/ROOT/pages/3.adoc[]
+
+include::modules/ROOT/pages/4.adoc[]
+
+include::modules/ROOT/pages/5.adoc[]
+
+include::modules/ROOT/pages/6.adoc[]
+
+include::modules/ROOT/pages/7.adoc[]
+
+include::modules/ROOT/pages/8.adoc[]
+
+include::modules/ROOT/pages/9.adoc[]
+
+include::modules/ROOT/pages/10.adoc[]
+
+include::modules/ROOT/pages/11.adoc[]
+
+include::modules/ROOT/pages/12.adoc[]

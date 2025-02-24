@@ -105,11 +105,11 @@ Alvins are iPads on carts. There are currently two types of Alvins, both of whic
 
 |
 .LanguageLine Alvin
-image::Interpreter on Wheels.jpg[iPad cart with white speakers on both sides of the iPad,100,100]]
+image::/Users/schzs8/Library/CloudStorage/OneDrive-cchmc/1 Projects/LAP-website/modules/ROOT/images/Interpreter on Wheels.jpg[iPad cart with white speakers on both sides of the iPad,100,100]]
 
 | 
 .Telehealth Alvin
-image::telehealth cart.jpg[iPad cart with a black speaker below the iPad,180,180]]
+image::/Users/schzs8/Library/CloudStorage/OneDrive-cchmc/1 Projects/LAP-website/modules/ROOT/images/telehealth cart.jpg[iPad cart with a black speaker below the iPad,180,180]]
 
 |===
 
@@ -303,6 +303,7 @@ Take a few moments before the session to brief the interpreter and created share
 If the language you need is not available via the resources under <<Accessing_interpreters,Accessing Interpreters>> above, follow the https://centerlink.cchmc.org/department/interpreter-services/rare-languages[Rare Language Process on CenterLink].
 
 == Emergency Situations
+
 When seconds matter and an interpreter isn't already present, call (or ask a colleague to help you call) a <<phone,phone>> or <<video,video>> interpreter.
 
 Do not use Google Translate, CoPilot, ChatGPT, or any other automated translation tool. It is against federal law because it is not accurate enough and therefore puts patient safety at risk. CITATION NEEDED (LAW and ACCURACY)
@@ -310,9 +311,11 @@ Do not use Google Translate, CoPilot, ChatGPT, or any other automated translatio
 In an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no qualified interpreter immediately available, an adult or minor child may interpret or facilitate communication as a temporary measure while finding a qualified interpreter. The qualified interpreter (in-person, phone, or video) that eventually arrives must confirm or supplement the initial communication that occured via the non-qualified interpreter.
 
 == Waiting Rooms
+
 Work with an interpreter when getting a patient from the waiting room if the patient or someone accompanying the patient would <<language-preference-id,prefer to communicate in a language other than English>>. "Wrong patient" safety events can result from miscommunication in the waiting room.
 
 == Groups, Events, and Conferences
+
 It is complex to provide interpreting in large group settings such as events and conferences. Email mailto:interpreterservices@cchmc.org[interpreterservices@cchmc.org] to arrange a consult with Language Access Services about your event as early as possible.
 
 Possible solutions include simultaneous interpreting (https://en.wikipedia.org/wiki/Simultaneous_interpretation#Modes[with equipment or "whispered"]) and dedicated events conducted entirely in the language other than English.
@@ -322,7 +325,7 @@ Possible solutions include simultaneous interpreting (https://en.wikipedia.org/w
 [%autowidth.stretch,frame=none,grid=none,cols="1,1"]
 |===
 | Audio and video intepreters are available on-demand for Telehealth on Microsoft Teams. For details, see https://centerlink.cchmc.org/department/interpreter-services/telemedicine
-| image:amn.png[AMN Interpreting Icon,width=50]
+| image:/Users/schzs8/Library/CloudStorage/OneDrive-cchmc/1 Projects/LAP-website/modules/ROOT/images/amn.png[AMN Interpreting Icon,width=50]
 |===
 
 ****
@@ -340,6 +343,7 @@ If you receive a voicemail in a language other than English, call a phone interp
 Phone trees (automated telephone menus) are difficult to navigate with an interpreter. Provide families who use languages other than English (LOE) with direct phone numbers which bypass automated menus whenever possible.
 
 == Troubleshooting
+
 Common issues include:
 
 * This interpreter seems bad. What do I do?

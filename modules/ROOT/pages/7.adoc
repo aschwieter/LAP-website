@@ -1,6 +1,7 @@
 = Written Communication [[written]]
  
 == Acute/Critical Care
+
 ****
 icon:hospital[] _Acute/Critical Care_
 
@@ -89,6 +90,7 @@ Translate commonly-used patient- and family-facing forms, resources, https://cen
 
 [discrete]
 === Patient/Encounter Specific
+
 Do not request translation for AVSs. Instead communicate verbally. Use https://cchmc.service-now.com/is?id=kb_article_view&sysparm_article=KB0013699[Epic templated translations] when available.
 
 Do not translate progress notes, reports, or test results. To provide this in writing to families, summarize them in a letter using words the family can easily understand and request translation of the letter via the https://centerlink.cchmc.org/forms/interpreter-services/written-translation-request[Translation Request Form on CenterLink].
@@ -99,6 +101,7 @@ For any other patient/encounter specific translations, contact CONTACT NEEDED to
 ****
 
 == AI or Machine Translation
+
 Do not use Google Translate, CoPilot, ChatGPT, or any other automated translation tool. It is against federal law because it is not accurate enough and therefore puts patient safety at risk. CITATION NEEDED (LAW and ACCURACY)
 
 == Medical Records in Languages other than English
@@ -110,9 +113,11 @@ For other patients, request translation of the specific portion(s) of the record
 
 
 == Braille
+
 Braille materials can be created when specifically requested by a patient or person accompanying a patient. Contact translations@cchmc.org for support.
 
 == Forms, Surveys, and Screeners
+
 Give people paper and digital forms in the language they want the forms to be in. When that language is not available, ask the questions verbally.
 
 ****
@@ -123,6 +128,7 @@ If giving these documents at Registration, tell the family we will ask the quest
 ****
 
 == Existing Translations
+
 Useful translations include:
 
 
@@ -145,6 +151,7 @@ Useful translations include:
 
 
 == Medication Labels
+
 The Cincinnati Children's Pharmacies can print labels in Spanish for common sigs. Outside pharmacies can print labels in many langauges for common sigs.
 
 Some families may not be familiar with the concept of refills.
@@ -157,6 +164,7 @@ Inpatient pharmacists can create bilingual MedActionPlans for patients with comp
 ****
 
 == Digital Touchpoints
+
 MyChart is currently not available in Spanish.
 
 Any Cincinnati Children's owned or purchased apps, webpages, or other digital communication with families should be designed to support English and Spanish within 12 months of going live. Additional languages can be considered on a case-by-case basis. Contact translations@cchmc.org for support.
@@ -164,6 +172,7 @@ Any Cincinnati Children's owned or purchased apps, webpages, or other digital co
 When the language you need isn't available, find a different way to provide the value of the app, webpage or digital communication.
 
 == External Resources [[external]]
+
 Before sharing an external resource with a family such as a website, app, book, or video, check if it is available in their language. If it is not, consider finding other resources for the family, or asking if the particular resource will be helpful despite only being available in English.
 
 The same goes for providing phone numbers to external organizations. Check to see if they offer interpreter services before referring the family.
@@ -176,6 +185,7 @@ The Spanish resource list LINK NEEDED addresses many common needs.
 ****
 
 == People with Blindness and Visual Impairments
+
 Braille materials can be created upon request by emailing translations@cchmc.org.
 
 Many people who are blind prefer using digital documents and a screen reader. Provide digital documents upon request. For help, contact translations@cchmc.org.
