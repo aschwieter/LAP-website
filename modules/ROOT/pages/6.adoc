@@ -239,7 +239,8 @@ Language Access Services automatically schedules in-person interpreters for Ambu
 8. Rounds
 9. Aquatic therapy
 10. Shifts where interpreters are deployed on-demand (e.g. Emergency Department and <<service-tasks,Spanish & Arabic (CBDI Only) at Base during Business Hours>>)
-11. All other needs
+11. Encounters with complex medical terminology
+12. All other needs
 
 Do not re-schedule appointments because an in-person interpreter is not available. Work with a phone or video interpreter instead.
 
