@@ -300,7 +300,7 @@ Federal law only allows an adult accompanying a patient or individual with limit
 
 It is not generally appropriate for these adults to interpret or facilitate communication for the purposes of informed consent or discharge. However, when you cannot get a qualified interpreter through the https://centerlink.cchmc.org/department/interpreter-services/rare-languages[Rare Language process], this may be the only option.
 
-https://cchmc.navexone.com/content/Search/Documents[Form J1011] must be completed whenever an adult accompanying an individual with limited English proficiency interprets or facilitates communication.
+Form J1011 must be completed whenever an adult accompanying an individual with limited English proficiency interprets or facilitates communication. To find the form, search for "J1011" in https://cchmc.navexone.com/content/Search/Documents[PolicyTech].
 
 This includes one parent/caregiver interpreting for another parent/caregiver.
 
