@@ -6,9 +6,9 @@ icon:hospital[] _Acute/Critical Care_
 [discrete]
 == Admission
 
-* [ ] xref:language-preference-id[Identify language preferences].
-* [ ] xref:accessing_inperson_interpreters[Schedule in-person interpreters] for rounds.
-* [ ] If necessary, review xref:family-friend[when family/friends can interpret].
+* [ ] xref:languagepreference.adoc[Identify language preferences].
+* [ ] xref:verbal.adoc#accessing_inperson_interpreters[Schedule in-person interpreters] for rounds.
+* [ ] If necessary, review xref:verbal.adoc#family-friend[when family/friends can interpret].
 
 [discrete]
 == Rounds
@@ -18,16 +18,16 @@ Plan in advance for rounds by:
 1. Engaging the family:
 ** Explain how rounds work on your unit and explore their communication preferences. What parts of the rounding conversation do they want to be involved in?
 ** What time will they be available for rounds?
-2. xref:accessing_inperson_interpreters[Requesting an in-person interpreter]. Consider: 
+2. xref:verbal.adoc#accessing_inperson_interpreters[Requesting an in-person interpreter]. Consider: 
 ** Does your team or unit need to work with the in-person intrerpreter for multiple patients?
 ** Will other members of your multidisciplinary team need to time work with the in-person interpreter during that visit
 ** Units that designate a role that is responsible for this have more success with obtaining in-person interpreters.
 
-When a family is not at bedside, consider xref:outbound-phone-calls[calling them with a phone interpreter].
+When a family is not at bedside, consider xref:verbal.adoc#outbound-phone-calls[calling them with a phone interpreter].
 
 [discrete]
 === Rounding with Phone or Video Intepreters
-xref:phone[Phone] and xref:video[Video] interpreters cannot interpret simultaneously. Chunking and turn-taking are required.
+xref:verbal.adoc#phone[Phone] and xref:verbal.adoc#video[Video] interpreters cannot interpret simultaneously. Chunking and turn-taking are required.
 
 [discrete]
 === MyRounds
@@ -36,9 +36,9 @@ MyRounds is only available in English. Explain this to families who use language
 [discrete]
 == Discharge
 
-* [ ] xref:accessing_inperson_interpreters[Schedule in-person interpreters] for teaching.
-* [ ] xref:accessing_inperson_interpreters[Schedule in-person interpreters] for reviewing discharge instructions.
-* [ ] xref:written[Translate] discharge instructions and, if applicable, medication lists.
-* [ ] Provide xref:external[appropriate external resources].
+* [ ] xref:verbal.adoc#accessing_inperson_interpreters[Schedule in-person interpreters] for teaching.
+* [ ] xref:verbal.adoc#accessing_inperson_interpreters[Schedule in-person interpreters] for reviewing discharge instructions.
+* [ ] xref:written.adoc#inpatient[Translate] discharge instructions and, if applicable, medication lists.
+* [ ] Provide xref:written.adoc#external[appropriate external resources].
     
 ****
