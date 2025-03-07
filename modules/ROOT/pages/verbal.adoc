@@ -187,6 +187,7 @@ _* It may take more than 45 minutes for these interpreters to arrive._
 icon:hospital[] _Acute/Critical Care_  icon:store[] _Ambulatory_  icon:radiation[] _Radiology_  icon:syringe[] _Periop_
 
 [discrete]
+
 ==== Spanish & Arabic (CBDI Only) at Base during Business Hours [[service-tasks]]
 
 In-person Spanish & Arabic (CBDI only) interpreters are deployed in real-time, on-demand for Locations A-G & R-T on weekdays between 8am and 5pm.
@@ -203,6 +204,7 @@ In-person Spanish & Arabic (CBDI only) interpreters are deployed in real-time, o
 icon:hospital[] _Acute/Critical Care_
 
 [discrete]
+
 ==== All Other Languages, Times, or Locations
 
 In-person interpreters should be scheduled in advance via the https://centerlink.cchmc.org/forms/interpreter-services/interpreter-request-form[Interpreter Request Form on CenterLink]. Units that designate a role that is responsible for this have more success with obtaining in-person interpreters.
@@ -325,7 +327,7 @@ In an emergency involving an imminent threat to the safety or welfare of an indi
 
 == Waiting Rooms
 
-Work with an interpreter when getting a patient from the waiting room if the patient or someone accompanying the patient would <<language-preference-id,prefer to communicate in a language other than English>>. "Wrong patient" safety events can result from miscommunication in the waiting room.
+Work with an interpreter when getting a patient from the waiting room if the patient or someone accompanying the patient would xref:languagepreference.adoc[prefer to communicate in a language other than English]. "Wrong patient" safety events can result from miscommunication in the waiting room.
 
 == Groups, Community Events, and Conferences
 

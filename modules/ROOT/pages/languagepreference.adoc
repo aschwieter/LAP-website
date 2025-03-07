@@ -14,7 +14,7 @@ Communicate this language preference to other team members during handoffs.
 If someone is unable to say which language they speak:
 
 1. Use a language identification card (LINK NEEDED) or the list of languages on the <<video,Alvin>>.
-2. Call the <<phone,phone interpreter line>> and ask the operator to assist you in identifying the language.
+2. Call the xref:verbal.adoc#phone[phone interpreter line] and ask the operator to assist you in identifying the language.
 
 ****
 icon:hospital[] _Acute/Critical Care_
@@ -31,6 +31,7 @@ Repeat this process:
 ****
 
 == Demographics in Epic
+
 For patients where at least one person sometimes wants to communicate in a language other than English, ensure the patient-level demographic fields have that language listed as "Preferred Language" and "Interpreter Needed" is set to "Yes."
 
 This is a patient-level field so it should reflect the family's needs for the future, not just a single visit.
