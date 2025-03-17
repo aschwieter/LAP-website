@@ -1,4 +1,6 @@
-= Verbal Communication [[verbal_communication]]
+= Verbal Communication
+
+[[verbal_communication]]
 
 Work with an interpreter anytime the person you are communicating with wants to use a language other than English.
 
