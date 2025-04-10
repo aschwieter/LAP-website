@@ -12,3 +12,8 @@ ui:
 antora:
   extensions:
   - '@antora/lunr-extension'
+asciidoc:
+  attributes:
+    icons: font
+    # Optionally specify which icon set (FontAwesome 5+)
+    icon-set: fas # For solid icons (or use fab for brands, far for regular)
