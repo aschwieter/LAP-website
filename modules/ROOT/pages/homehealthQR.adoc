@@ -7,8 +7,8 @@ icon:home[] _Home Health_
 == Admission to HHC services
 * Meet with the patient and caregivers to xref:languagepreference.adoc[identify interpreter needs] across the spectrum of HHC services. Document these preferences as applicable (case communication and care plan). 
 * If applicable, discuss when xref:verbal.adoc#family-friend[patient/family/friends] may interpret and complete form J1011.
-* Provide resources in preferred language as able: direct interpreter line phone number, HHC folder, consents, documents, Knowing Notes, and instructions.
-* As able, request urgent translation for critical home care procedure instructions.
+* Provide resources in preferred language as able: xref:verbal.adoc#DIAL[direct interpreter access line] phone number, HHC folder, consents, documents, Knowing Notes, and instructions.
+* As able, xref:written.adoc#inpatient[request urgent translation] for critical home care procedure instructions.
 * Plan ahead to request in person interpreter for SOC visits as available.
 
 [discrete]

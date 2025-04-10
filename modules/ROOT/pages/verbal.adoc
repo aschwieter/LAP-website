@@ -29,7 +29,7 @@ Interpreters are available via:
 
 Each time you work with an interpreter for an interaction that you document in Epic, also document the modality (phone, video, in-person) of interpreter you worked with. This can be done in a flowsheet or notes using .INTERPRETER. Interpreter names, ID numbers, and language are helpful but not required. Also document when you communicate in English but "Preferred Language" in Epic is not English.
 
-Also document when "Interpreter Needed" is set to "Yes" in the patient's chart but everyone wants to communicate in English for that encounter.
+Also document when "Interpreter Needed" is set to "Yes" in the patient's chart but everyone wants to communicate in English for that encounter. You may use the smartphrase .INTERPRETERNOTNEEDED for this documentation.
 
 ****
 icon:syringe[] _Periop_
@@ -41,10 +41,16 @@ When documenting consent for a surgical/medical procedure, if "Interpreter Neede
 
 == Accessing Interpreters [[accessing_interpreters]]
 
+NOTE: Video interpreters are not effective for some people who are deaf or hard of hearing. In those cases, always try to get an in-person interpreter.
+
 ****
 icon:plus[] _Emergency Services_
 
 <<ed-inperson-spanish,Request an in-person Spanish interpreter>> if one is signed into Voalte for your location.
+
+If an individual who is deaf or hard of hearing says that video remote interpreting isn't effective for them, federal law requires that we <<ed-inperson-spanish,request an in-person interpreter>>.
+
+
 ****
 
 For immediate needs, work with a phone interpreter or ALVIN (video interpreter). Use an ALVIN when you need both hands for clinical work.
@@ -54,9 +60,6 @@ icon:hospital[] _Acute/Critical Care_
 
 For complex discussions, request an in-person interpreter.
 ****
-
-
-NOTE: Video interpreters are not effective for some people who are deaf or hard of hearing. In those cases, always try to get an in-person interpreter.
 
 ****
 icon:radiation[] _Radiology_
@@ -68,9 +71,12 @@ For instructions that must be provided during the MRI scan in languages other th
 
 === Phone [[phone]]
 
-Phone interpreters are available at extension 3-TALK (8255) via hospital phones including Voalte phones. You can also call 513-803-8255 from your personal cell phone.
+Phone interpreters are available at extension 3-TALK (8255) via hospital phones including Voalte phones. You can also call 513-803-8255 from your work or personal cell phone.
+
+Tell the interpreter what department you are calling from and the chief complaint or purpose of the interaction.
 
 Give the interpreter a brief heads up if you expect there to be background noise, traumatic content, or other challenges.
+
 
 Phone interpreters cannot use ASL because it is a visual language. Work with a video or in-person interpreter instead.
 
@@ -78,8 +84,15 @@ Use speakerphone or pass the phone back and forth.
 
 If the language you need is not available, follow the https://centerlink.cchmc.org/department/interpreter-services/rare-languages[Rare Language Process on CenterLink].
 
-NOTE: When families call us, they should use the language-specific https://centerlink.cchmc.org/department/interpreter-services/dial-direct-interpreter-access-line[Direct Intepreter Access Lines] which connect with an interpreter and then the Cincinnati Children's operator. Avoid directing families to phone trees whenever possible since they are difficult to navigate with an interpreter on the line.
+[[DIAL]]
+NOTE: When families call us, they should use the language-specific https://centerlink.cchmc.org/department/interpreter-services/dial-direct-interpreter-access-line[Direct Intepreter Access Lines] (if available for their language) which connect with an interpreter and then the Cincinnati Children's operator. Avoid directing families to phone trees whenever possible since they are difficult to navigate with an interpreter on the line.
 
+****
+icon:house[] _Home Health_
+
+When working in the community, if you phone calls are not working due to inadequate cell service, use a <<vide,video interpreter>> instead.
+
+****
 
 
 ==== Inbound Phone Calls
@@ -90,15 +103,17 @@ If you receive a call from someone who wants to communicate in a language other 
 
 To call a family with an interpreter on the line, first call 3-8255 (TALK). The interpreter can then place a three-way call to the family.
 
-NOTE: For deaf or hard of hearing people who use Americal Sign Language (ASL), call the family directly. A video relay ASL interpreter will connect automatically.
+NOTE: For people who are deaf or hard of hearing and use American Sign Language (ASL), call the family directly as you would a family that speaks English. An ASL interpreter will connect automatically, communicating verbally with you and via video with the patient or family member.
 
 === Video [[video]]
 
-Video interpreters are available on Alvins using the InSight app. You can search by language or country.
+Video interpreters are available on Alvins using the InSight app. You can search by language or country. Watch https://www.youtube.com/watch?v=6RXPzRH9jYQ[this video] for more details.
 
 Tell the interpreter what department you are calling from and the chief complaint or purpose of the interaction.
 
 Give the interpreter a brief heads up if you expect there to be background noise, traumatic content, or other challenges.
+
+Collaborate with the interpreter to determine the best way to position the Alvin.
 
 Alvins are iPads on carts. There are currently two types of Alvins, both of which can be used to call interpreters or for telehealth purposes:
 
@@ -127,18 +142,28 @@ icon:hospital[] _Acute/Critical Care_
 
 In addition to Alvins, video interpreting is available on MyChart Bedside iPads and in-room telehealth systems where available.
 
-On Alvins or MyChart Beside iPads, use the InSight app to call an interpreter.
+On Alvins or MyChart Bedside iPads, use the InSight app to call an interpreter.
 
 On the in-room telehealth system, look for interpreters in the Contacts Directory.
 
 ****
 
+
+
 ==== Troubleshooting
-If calls repeatedly drop, switch to a <<phone,phone interpreter>>.
+If calls repeatedly drop, switch to a <<phone,phone interpreter>> for spoken languages. For sign languages, call Language Access Services at 6-1444 (or the manager in Who's On Call after hours) for assistance.
 
 Open a ticket with the Service Desk at 6-4100 so the issue can be fixed.
 
+****
+icon:house[] _Home Health_
+
+If video functionality is spotty, change to audio only. 
+
+****
+
 === In-Person [[accessing_inperson_interpreters]]
+
 
 ****
 icon:vial[] _Lab_
@@ -169,6 +194,8 @@ For languages other than Spanish, or when a Spanish interpreter isn't working in
 * End of life
 * Other situations where remote interpreting is found to be ineffective
 
+Be prepared to explain which of these reasons led you to request an in-person interpreter.
+
 Business hours (Monday -Friday, 8am-5pm): Call 6-1444
 
 Outside business hours:
@@ -186,13 +213,13 @@ _* It may take more than 45 minutes for these interpreters to arrive._
 ****
 
 ****
-icon:hospital[] _Acute/Critical Care_  icon:store[] _Ambulatory_  icon:radiation[] _Radiology_  icon:syringe[] _Periop_
+icon:hospital[] _Acute/Critical Care_  icon:store[] _Ambulatory_  icon:radiation[] _Radiology_  icon:syringe[] _Periop_  icon:brain[] _Mental Health_
 
 [discrete]
 
-==== Spanish & Arabic (CBDI Only) at Base during Business Hours [[service-tasks]]
+==== Spanish & Arabic at Base during Business Hours [[service-tasks]]
 
-In-person Spanish & Arabic (CBDI only) interpreters are deployed in real-time, on-demand for Locations A-G & R-T on weekdays between 8am and 5pm.
+In-person Spanish & Arabic interpreters are deployed in real-time, on-demand for Locations A-G & R-T on weekdays between 8am and 5pm.
 
 * To place a request, voalte the _Interpreter Flow Lead_ or use the Service Tasks button in Epic. See the https://cchmc.service-now.com/is?id=kb_article_view&sysparm_article=KB0035655[job aid] for more details.
 
@@ -203,7 +230,7 @@ In-person Spanish & Arabic (CBDI only) interpreters are deployed in real-time, o
 ****
 
 ****
-icon:hospital[] _Acute/Critical Care_
+icon:hospital[] _Acute/Critical Care_  icon:brain[] _Inpatient/Residential Mental Health_
 
 [discrete]
 
@@ -227,28 +254,42 @@ Arabic interpreters may offer to interpret over-the-phone if that's more appropr
 
 
 ****
-icon:store[] _Ambulatory_  icon:syringe[] _Periop_
+icon:store[] _Ambulatory_  icon:syringe[] _Periop_  icon:house[] _Home Health_  icon:radiation[] _Radiology_  icon:brain[] _Outpatient Mental Health_
 
 [discrete]
 ==== All Other Languages, Times, or Locations
-Language Access Services automatically schedules in-person interpreters for Ambulatory and Periop encounters whenever possible, prioritizing in the following order:
+Language Access Services automatically schedules in-person interpreters for Ambulatory, Periop, and Home Health encounters whenever possible, prioritizing in the following order:
 
 1. Codes & traumas
 2. Rule out physical abuse (ROPA) and rule out sexual abuse (ROSA)
 3. Minors without parents or guardians who speak the same language
 4. End of life
-5. Forensic interviews (e.g. Mayerson Center)
-6. Mental health group settings (e.g. College Hill)
-7. Care conferences
-8. Rounds
-9. Aquatic therapy
-10. Shifts where interpreters are deployed on-demand (e.g. Emergency Department and <<service-tasks,Spanish & Arabic (CBDI Only) at Base during Business Hours>>)
-11. Encounters with complex medical terminology
-12. All other needs
+5. Home Health visits without cellular or WiFi coverage - please inform interpeterservices@cchmc.org if this is the case.
+6. MRI
+7. Forensic interviews (e.g. Mayerson Center)
+8. Mental health group settings (e.g. College Hill)
+9. Care conferences
+10. Rounds
+11. Aquatic therapy
+12. Shifts where interpreters are deployed on-demand (e.g. Emergency Department and <<service-tasks,Spanish & Arabic at Base during Business Hours>>)
+13. Encounters with complex medical terminology
+14. All other needs
 
-Do not re-schedule appointments because an in-person interpreter is not available. Work with a phone or video interpreter instead.
+Do not re-schedule appointments because an in-person interpreter is not available for a spoken language. Work with a phone or video interpreter instead.
 
-Contact interpeterservices@cchmc.org if interpreters routinely scheduled for too short.
+Contact interpeterservices@cchmc.org if:
+* Interpreters are routinely scheduled for too little time.
+* An interpreter fails to arrive when scheduled.
+
+****
+
+****
+icon:home[] _Home Health_
+
+Meet the interpreter outside of the home prior to the visit. Enter and leave the home together if possible.
+
+If an in-person interpreter was scheduled for a visit, notify interpeterservices@cchmc.org if that visit is cancelled, the time changes, or the location changes.
+
 ****
 
 
@@ -310,6 +351,15 @@ A minor child can only interpret or facilitate communication in the emergency si
 
 Discussing these requests is often uncomfortable and culturally sensitive. For tips, see SOURCE NEEDED.
 
+****
+icon:home[] _Home Health_
+
+Prior to the Start of Care, talk to the patient and family about expectations for working with interpreters during Home Health Care encounters.
+
+Complete form J1011 as needed prior to the Start of Care.
+
+****
+
 == Best Practices for Working with Interpreters
 The National Council on Interpreting in Health Care published a https://www.ncihc.org/assets/documents/publications/NCIHC%20Partnering%20with%20an%20Interpreter%2C%20no%20graphics.pdf[Guide for Partnering with an Interpreter].
 
@@ -349,6 +399,13 @@ Possible solutions include simultaneous interpreting (https://en.wikipedia.org/w
 icon:plus[] _Emergency Services_
 
 For patients seen on CincyKids Health Connect, add an interpreter by following the on-screen instructions.
+****
+
+****
+icon:house[] _Home Health_
+
+For Remote Paitent Monitoring (RPM), use Teams instead of Vivify for calls where an interpreter is needed.
+
 ****
 
 == Voicemail

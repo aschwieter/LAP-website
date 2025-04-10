@@ -3,7 +3,7 @@
 == Acute/Critical Care [[inpatient]]
 
 ****
-icon:hospital[] _Acute/Critical Care_
+icon:hospital[] _Acute/Critical Care_  icon:house[] _Home Health_  icon:brain[] _Inpatient/Residential Mental Health_
 
 Consider literacy and health literacy before providing written translations. These needs are documented in the https://cchmc.service-now.com/is?id=kb_article_view&sysparm_article=KB0012321[Learning Assessment].
 
@@ -13,6 +13,8 @@ Provide discharge instructions in the preferred language of each caregiver whene
 
 1. Ask the family to use their smartphone's Voice Recorder app to record the conversation you have with the help of an interpreter. That would allow them to listen back to the instructions at home.
 
+   * A video recording is also permitted as long as any staff member who is recorded gives the family verbal permission to record them. See https://cchmc.navexone.com/content/dotNet/documents/?docid=9449[Policy MCP-G-114] for more details.
+
 2. Only communicate verbally with help of an interpreter, relying on teach-back to ensure understanding. Provide pen and paper and ask the parent to write down key information.
 
 3. Ask the in-person interpeter to provide written translation of short discharge instructions.
@@ -20,6 +22,14 @@ Provide discharge instructions in the preferred language of each caregiver whene
 Do not translate progress notes or test results. To provide this in writing to families, summarize them in a letter using words the family can easily understand and request translation of the letter via the https://centerlink.cchmc.org/forms/interpreter-services/written-translation-request[Translation Request Form on CenterLink].
 
 Translation is not currently available for MyChart messaging, text messages (except for automated reminder messages), and emails to families. If you receive a message in a language other than English, request a translation from the https://centerlink.cchmc.org/forms/interpreter-services/written-translation-request[Translation Request Form on CenterLink].
+
+****
+
+****
+icon:home[] _Home Health_
+
+There is not a safe way to translate text messages to and from families. To communicate our expected arrival times, our options are phone calls or sending the text messages in English. Present these options to families and let them choose.
+
 ****
 
 == Emergency Services
@@ -77,7 +87,7 @@ Provide discharge instructions in the preferred language of each caregiver whene
 == Ambulatory
 
 ****
-icon:store[] _Ambulatory_
+icon:store[] _Ambulatory_  icon:brain[] _Outpatient Mental Health_
 
 When providing any documents to someone who sometimes uses a language other than English, ask the person what language(s) they would like the particular documents in.
 
@@ -112,9 +122,7 @@ For other patients, request translation of the specific portion(s) of the record
 
 
 
-== Braille
 
-Braille materials can be created when specifically requested by a patient or person accompanying a patient. Contact translations@cchmc.org for support.
 
 == Forms, Surveys, and Screeners
 
@@ -151,11 +159,13 @@ Useful translations include:
 * icon:syringe[] Periop:
 ** https://centerlink.cchmc.org/echirp/patient-family-ed/knowing-notes/periop-surgery[Knowing Notes]
 ** The Periop folder is available in Spanish and Arabic
+* icon:house[] Home Health:
+** HHC Folders in Spanish and Arabic
 
 
 == Medication Labels
 
-The Cincinnati Children's Pharmacies can print labels in Spanish for common sigs. Outside pharmacies can print labels in many langauges for common sigs.
+The Cincinnati Children's Pharmacies can print labels in Spanish for common sigs. Outside pharmacies can print labels in many languages for common sigs.
 
 Some families may not be familiar with the concept of refills.
 
@@ -189,6 +199,6 @@ The Spanish resource list LINK NEEDED addresses many common needs.
 
 == People with Blindness and Visual Impairments
 
-Braille materials can be created upon request by emailing translations@cchmc.org.
+Braille materials can be created when specifically requested by a patient or person accompanying a patient. Contact translations@cchmc.org for support.
 
 Many people who are blind prefer using digital documents and a screen reader. Provide digital documents upon request. For help, contact translations@cchmc.org.
