@@ -1,5 +1,6 @@
 = Written Communication [[written]]
- 
+
+[.filter-acute-critical-care]
 == Acute/Critical Care [[inpatient]]
 
 ****
@@ -32,6 +33,7 @@ There is not a safe way to translate text messages to and from families. To comm
 
 ****
 
+[.filter-emergency-services]
 == Emergency Services
 
 ****
@@ -84,6 +86,7 @@ Provide discharge instructions in the preferred language of each caregiver whene
 
 ****
 
+[.filter-ambulatory.filter-mental-health]
 == Ambulatory
 
 ****

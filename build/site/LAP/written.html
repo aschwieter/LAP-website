@@ -12,7 +12,21 @@
   <nav class="navbar">
     <div class="navbar-brand">
       <a class="navbar-item" href="..">Draft Language Access Plan</a>
-      <div class="navbar-item search hide-for-print">
+       <!-- START: Custom Filter Buttons -->
+        <div class="navbar-item filter-controls">
+          <span class="filter-label">Filter by:</span>
+          <div class="buttons are-small">
+            <button class="button filter-button" data-filter="filter-acute-critical-care">Acute/Critical Care</button>
+            <button class="button filter-button" data-filter="filter-emergency-services">Emergency Services</button>
+            <button class="button filter-button" data-filter="filter-ambulatory">Ambulatory</button>
+            <button class="button filter-button" data-filter="filter-home-health">Home Health</button>
+            <button class="button filter-button" data-filter="filter-periop">Periop</button>
+            <button class="button filter-button" data-filter="filter-lab">Lab</button>
+            <button class="button filter-button" data-filter="filter-radiology">Radiology</button>
+            <button class="button filter-button" data-filter="filter-mental-health">Mental Health</button>
+          </div>
+        </div>
+        <!-- END: Custom Filter Buttons -->      <div class="navbar-item search hide-for-print">
         <div id="search-field" class="field">
           <input id="search-input" type="text" placeholder="Search the plan">
         </div>
@@ -109,7 +123,7 @@
 </aside>
 <article class="doc">
 <h1 class="page">Written Communication</h1>
-<div class="sect1">
+<div class="sect1 filter-acute-critical-care">
 <h2 id="inpatient"><a class="anchor" href="#inpatient"></a>Acute/Critical Care</h2>
 <div class="sectionbody">
 <div class="sidebarblock">
@@ -166,7 +180,7 @@
 </div>
 </div>
 </div>
-<div class="sect1">
+<div class="sect1 filter-emergency-services">
 <h2 id="_emergency_services"><a class="anchor" href="#_emergency_services"></a>Emergency Services</h2>
 <div class="sectionbody">
 <div class="sidebarblock">
@@ -274,7 +288,7 @@
 </div>
 </div>
 </div>
-<div class="sect1">
+<div class="sect1 filter-ambulatory filter-mental-health">
 <h2 id="_ambulatory"><a class="anchor" href="#_ambulatory"></a>Ambulatory</h2>
 <div class="sectionbody">
 <div class="sidebarblock">
@@ -531,6 +545,7 @@
 </footer>
 <script id="site-script" src="../_/js/site.js" data-ui-root-path="../_"></script>
 <script async src="../_/js/vendor/highlight.js"></script>
+<script src="../_/js/soc-filter.js"></script>
 <script src="../_/js/vendor/lunr.js"></script>
 <script src="../_/js/search-ui.js" id="search-ui-script" data-site-root-path=".." data-snippet-length="100" data-stylesheet="../_/css/search.css"></script>
 <script async src="../search-index.js"></script>
