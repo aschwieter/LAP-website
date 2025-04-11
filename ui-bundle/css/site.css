@@ -2829,3 +2829,11 @@ footer.footer {
     color: #fff;
     /* White text for dark navbar background */
   }
+
+  a[href^="mailto:"] {
+    hyphens: none;           /* Disable automatic hyphenation */
+    word-break: keep-all;   /* Prevent breaking within the word/address */
+    overflow-wrap: normal;  /* Use default wrapping behavior */
+    /* You might still need to handle overflow if it's too long */
+    /* e.g., display: inline-block; max-width: 100%; overflow-x: auto; */
+  }
