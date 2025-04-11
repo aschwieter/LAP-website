@@ -2837,3 +2837,16 @@ footer.footer {
     /* You might still need to handle overflow if it's too long */
     /* e.g., display: inline-block; max-width: 100%; overflow-x: auto; */
   }
+
+  @font-face {
+    font-family: 'Font Awesome 6 Free';
+    font-style: normal;
+    font-weight: 900;
+    font-display: block;
+    src: url("../font/fa-solid-900.eot"); /* Older browsers */
+    src: url("../font/fa-solid-900.eot?#iefix") format("embedded-opentype"), /* IE */
+         url("../font/fa-solid-900.woff2") format("woff2"), /* Modern Browsers */
+         url("../font/fa-solid-900.woff") format("woff"), /* Older Browsers */
+         url("../font/fa-solid-900.ttf") format("truetype"), /* Safari, Android, iOS */
+         url("../font/fa-solid-900.svg#fontawesome") format("svg"); /* Legacy iOS */
+  }
