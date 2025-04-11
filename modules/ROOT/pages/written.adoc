@@ -201,8 +201,7 @@ The same goes for providing phone numbers to external organizations. Check to se
 ****
 icon:plus[] _Emergency Services_
 
-The https://centerlink.cchmc.org/-/media/acccd09bfebc4beb986f9bce8eb6aab8.pdf[Spanish resource list] addresses many common needs. Here's the https://centerlink.cchmc.org/-/media/c87efe1b82a1446b91f3e8d663338da0.pdf[English translation] for your reference.
-
+The https://centerlink.cchmc.org/-/media/acccd09bfebc4beb986f9bce8eb6aab8.pdf[Spanish resource list] (https://centerlink.cchmc.org/-/media/c87efe1b82a1446b91f3e8d663338da0.pdf[English version]) addresses many common needs.
 ****
 
 == People with Blindness and Visual Impairments
