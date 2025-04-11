@@ -1,5 +1,6 @@
 = Inpatient Quick Reference
- 
+
+[.filter-acute-critical-care]
 ****
 icon:hospital[] _Acute/Critical Care_
 

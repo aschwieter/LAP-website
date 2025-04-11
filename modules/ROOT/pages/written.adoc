@@ -1,7 +1,7 @@
 = Written Communication [[written]]
 
-[.filter-acute-critical-care]
-== Acute/Critical Care [[inpatient]]
+[.filter-acute-critical-care.filter-home-health.filter-mental-health]
+== Acute/Critical Care, Home Health, and Inpatient/Residential Mental Health [[inpatient]]
 
 ****
 icon:hospital[] _Acute/Critical Care_  icon:house[] _Home Health_  icon:brain[] _Inpatient/Residential Mental Health_
@@ -26,6 +26,7 @@ Translation is not currently available for MyChart messaging, text messages (exc
 
 ****
 
+[.filter-home-health]
 ****
 icon:home[] _Home Health_
 
@@ -60,6 +61,7 @@ Provide discharge instructions in the preferred language of each caregiver whene
 
 ****
 
+[.filter-periop]
 == Periop
 
 ****
@@ -87,7 +89,7 @@ Provide discharge instructions in the preferred language of each caregiver whene
 ****
 
 [.filter-ambulatory.filter-mental-health]
-== Ambulatory
+== Ambulatory and Outpatient Mental Health
 
 ****
 icon:store[] _Ambulatory_  icon:brain[] _Outpatient Mental Health_
@@ -131,6 +133,7 @@ For other patients, request translation of the specific portion(s) of the record
 
 Give people paper and digital forms in the language they want the forms to be in. When that language is not available, ask the questions verbally.
 
+[.filter-ambulatory]
 ****
 icon:store[] _Ambulatory_
 
@@ -172,6 +175,7 @@ The Cincinnati Children's Pharmacies can print labels in Spanish for common sigs
 
 Some families may not be familiar with the concept of refills.
 
+[.filter-acute-critical-care]
 ****
 icon:hospital[] _Acute/Critical Care_
 
@@ -193,6 +197,7 @@ Before sharing an external resource with a family such as a website, app, book, 
 
 The same goes for providing phone numbers to external organizations. Check to see if they offer interpreter services before referring the family.
 
+[.filter-emergency-services]
 ****
 icon:plus[] _Emergency Services_
 

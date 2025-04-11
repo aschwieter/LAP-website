@@ -16,6 +16,7 @@ If someone is unable to say which language they speak:
 1. Use a language identification card (LINK NEEDED) or the list of languages on the <<video,Alvin>>.
 2. Call the xref:verbal.adoc#phone[phone interpreter line] and ask the operator to assist you in identifying the language.
 
+[.filter-acute-critical-care]
 ****
 
 icon:hospital[] _Acute/Critical Care_
@@ -31,6 +32,7 @@ Repeat this process:
 
 ****
 
+[.filter-home-health]
 ****
 
 icon:home[] _Home Health_

@@ -31,6 +31,7 @@ Each time you work with an interpreter for an interaction that you document in E
 
 Also document when "Interpreter Needed" is set to "Yes" in the patient's chart but everyone wants to communicate in English for that encounter. You may use the smartphrase .INTERPRETERNOTNEEDED for this documentation.
 
+[.filter-periop]
 ****
 icon:syringe[] _Periop_
 
@@ -43,6 +44,7 @@ When documenting consent for a surgical/medical procedure, if "Interpreter Neede
 
 NOTE: Video interpreters are not effective for some people who are deaf or hard of hearing. In those cases, always try to get an in-person interpreter.
 
+[.filter-emergency-services]
 ****
 icon:plus[] _Emergency Services_
 
@@ -55,12 +57,14 @@ If an individual who is deaf or hard of hearing says that video remote interpret
 
 For immediate needs, work with a phone interpreter or ALVIN (video interpreter). Use an ALVIN when you need both hands for clinical work.
 
+[.filter-acute-critical-care]
 ****
 icon:hospital[] _Acute/Critical Care_
 
 For complex discussions, request an in-person interpreter.
 ****
 
+[.filter-radiology]
 ****
 icon:radiation[] _Radiology_
 
@@ -87,6 +91,7 @@ If the language you need is not available, follow the https://centerlink.cchmc.o
 [[DIAL]]
 NOTE: When families call us, they should use the language-specific https://centerlink.cchmc.org/department/interpreter-services/dial-direct-interpreter-access-line[Direct Intepreter Access Lines] (if available for their language) which connect with an interpreter and then the Cincinnati Children's operator. Avoid directing families to phone trees whenever possible since they are difficult to navigate with an interpreter on the line.
 
+[.filter-home-health]
 ****
 icon:house[] _Home Health_
 
@@ -136,7 +141,7 @@ Share Alvins with other teams, units, or departments as needed. Return them to t
 
 If the language you need is not available, follow the https://centerlink.cchmc.org/department/interpreter-services/rare-languages[Rare Language Process on CenterLink].
 
-
+[.filter-acute-critical-care]
 ****
 icon:hospital[] _Acute/Critical Care_
 
@@ -155,6 +160,7 @@ If calls repeatedly drop, switch to a <<phone,phone interpreter>> for spoken lan
 
 Open a ticket with the Service Desk at 6-4100 so the issue can be fixed.
 
+[.filter-home-health]
 ****
 icon:house[] _Home Health_
 
@@ -164,7 +170,7 @@ If video functionality is spotty, change to audio only.
 
 === In-Person [[accessing_inperson_interpreters]]
 
-
+[.filter-lab]
 ****
 icon:vial[] _Lab_
 
@@ -173,6 +179,7 @@ Do not request in-person interpreters if one does not arrive with the patient.
 This is because visits are short and unscheduled.
 ****
 
+[.filter-radiology]
 ****
 icon:radiation[] _Radiology_
 
@@ -180,7 +187,7 @@ Do not request in-person interpreters when visits are short or communication wil
 
 ****
 
-
+[.filter-emergency-services]
 ****
 icon:plus[] _Emergency Services_ [[ed-inperson-spanish]]
 
@@ -212,6 +219,7 @@ _* It may take more than 45 minutes for these interpreters to arrive._
 
 ****
 
+[.filter-acute-critical-care.filter-ambulatory.filter-radiology.filter-periop.filter-mental-health]
 ****
 icon:hospital[] _Acute/Critical Care_  icon:store[] _Ambulatory_  icon:radiation[] _Radiology_  icon:syringe[] _Periop_  icon:brain[] _Mental Health_
 
@@ -229,6 +237,7 @@ In-person Spanish & Arabic interpreters are deployed in real-time, on-demand for
 
 ****
 
+[.filter-acute-critical-care.filter-mental-health]
 ****
 icon:hospital[] _Acute/Critical Care_  icon:brain[] _Inpatient/Residential Mental Health_
 
@@ -252,7 +261,7 @@ Arabic interpreters may offer to interpret over-the-phone if that's more appropr
 ****
 
 
-
+[.filter-ambulator.filter-periop.filter-home-health.filter-radiology.filter-mental-health]
 ****
 icon:store[] _Ambulatory_  icon:syringe[] _Periop_  icon:house[] _Home Health_  icon:radiation[] _Radiology_  icon:brain[] _Outpatient Mental Health_
 
@@ -283,6 +292,7 @@ Contact interpeterservices@cchmc.org if:
 
 ****
 
+[.filter-home-health]
 ****
 icon:home[] _Home Health_
 
@@ -351,6 +361,7 @@ A minor child can only interpret or facilitate communication in the emergency si
 
 Discussing these requests is often uncomfortable and culturally sensitive. For tips, see SOURCE NEEDED.
 
+[.filter-home-health]
 ****
 icon:home[] _Home Health_
 
@@ -365,7 +376,7 @@ The National Council on Interpreting in Health Care published a https://www.ncih
 
 Take a few moments before the session to brief the interpreter and created shared expectations.
 
-== Rare Languages
+== Rare Languages [[rare]]
 
 If the language you need is not available via the resources under <<Accessing_interpreters,Accessing Interpreters>> above, follow the https://centerlink.cchmc.org/department/interpreter-services/rare-languages[Rare Language Process on CenterLink].
 
@@ -395,12 +406,14 @@ Possible solutions include simultaneous interpreting (https://en.wikipedia.org/w
 | image::{imagesdir}/amn.png[AMN Interpreting Icon,width=50]
 |===
 
+[.filter-emergency-services]
 ****
 icon:plus[] _Emergency Services_
 
 For patients seen on CincyKids Health Connect, add an interpreter by following the on-screen instructions.
 ****
 
+[.filter-home-health]
 ****
 icon:house[] _Home Health_
 
