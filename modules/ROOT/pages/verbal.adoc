@@ -122,11 +122,11 @@ Alvins are iPads on carts. There are currently two types of Alvins, both of whic
 
 |
 .LanguageLine Alvin
-image::/Users/schzs8/Library/CloudStorage/OneDrive-cchmc/1 Projects/LAP-website/modules/ROOT/images/Interpreter on Wheels.jpg[iPad cart with white speakers on both sides of the iPad,100,100]]
+image::{imagesdir}/Interpreter-on-Wheels.jpg[iPad cart with white speakers on both sides of the iPad,100,100]]
 
 | 
 .Telehealth Alvin
-image::/Users/schzs8/Library/CloudStorage/OneDrive-cchmc/1 Projects/LAP-website/modules/ROOT/images/telehealth cart.jpg[iPad cart with a black speaker below the iPad,180,180]]
+image::{imagesdir}/telehealth-cart.jpg[iPad cart with a black speaker below the iPad,180,180]]
 
 |===
 
@@ -392,7 +392,7 @@ Possible solutions include simultaneous interpreting (https://en.wikipedia.org/w
 [%autowidth.stretch,frame=none,grid=none,cols="1,1"]
 |===
 | Audio and video intepreters are available on-demand for Telehealth on Microsoft Teams. For details, see https://centerlink.cchmc.org/department/interpreter-services/telemedicine
-| image:/Users/schzs8/Library/CloudStorage/OneDrive-cchmc/1 Projects/LAP-website/modules/ROOT/images/amn.png[AMN Interpreting Icon,width=50]
+| image::{imagesdir}/amn.png[AMN Interpreting Icon,width=50]
 |===
 
 ****
