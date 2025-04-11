@@ -112,12 +112,12 @@ Do not translate progress notes, reports, or test results. To provide this in wr
 
 Translation is not currently available for sending MyChart message, text messages, or emails to families. If you receive a message in a language other than English, call the family with a xref:verbal.adoc#outbound-phone-calls[phone interpreter] or request a translation from the https://centerlink.cchmc.org/forms/interpreter-services/written-translation-request[Translation Request Form on CenterLink].
 
-For any other patient/encounter specific translations, contact CONTACT NEEDED to start the process. We will consider the importance of the materials and other resources which could serve this purpose.
+For any other patient/encounter specific translations, contact translations@cchmc.org to start the process. We will consider the importance of the materials and other resources which could serve this purpose.
 ****
 
 == AI or Machine Translation
 
-Do not use Google Translate, CoPilot, ChatGPT, or any other automated translation tool. It is against federal law because it is not accurate enough and therefore puts patient safety at risk. CITATION NEEDED (LAW and ACCURACY)
+Do not use Google Translate, CoPilot, ChatGPT, or any other automated translation tool. It is https://www.hhs.gov/sites/default/files/ocr-dcl-section-1557-language-access.pdf[against federal law] because it is https://pmc.ncbi.nlm.nih.gov/articles/PMC11729812/[not accurate enough] and therefore https://jamanetwork.com/journals/jama/fullarticle/2823653[puts patient safety at risk].
 
 == Medical Records in Languages other than English
 

@@ -13,7 +13,10 @@ Communicate this language preference to other team members during handoffs.
 
 If someone is unable to say which language they speak:
 
-1. Use a language identification card (LINK NEEDED) or the list of languages on the <<video,Alvin>>.
+1. Use a language identification card (shown below) or the list of languages on the <<video,Alvin>>.
++
+image::{imagesdir}/language-poster.jpg[Language Identification Card,180,180]]
+
 2. Call the xref:verbal.adoc#phone[phone interpreter line] and ask the operator to assist you in identifying the language.
 
 [.filter-acute-critical-care]
