@@ -27,7 +27,7 @@ Plan in advance for rounds by:
 When a family is not at bedside, consider xref:verbal.adoc#outbound-phone-calls[calling them with a phone interpreter].
 
 [discrete]
-=== Rounding with Phone or Video Intepreters
+=== Rounding with Phone or Video Interpreters
 xref:verbal.adoc#phone[Phone] and xref:verbal.adoc#video[Video] interpreters for spoken languages cannot interpret simultaneously. Chunking and turn-taking are required.
 
 [discrete]

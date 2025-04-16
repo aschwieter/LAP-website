@@ -1,6 +1,6 @@
 = Language Access Plan
 Cincinnati Children's
-v0.9 February 24, 2025
+v0.10 April 16, 2025
 :toc: auto
 :data-uri:
 :icons: image
@@ -15,24 +15,24 @@ v0.9 February 24, 2025
 
 include::modules/ROOT/pages/index.adoc[]
 
-include::modules/ROOT/pages/2.adoc[]
+include::modules/ROOT/pages/policy.adoc[]
 
-include::modules/ROOT/pages/3.adoc[]
+include::modules/ROOT/pages/inpatientQR.adoc[]
 
-include::modules/ROOT/pages/4.adoc[]
+include::modules/ROOT/pages/homehealthQR.adoc[]
 
-include::modules/ROOT/pages/5.adoc[]
+include::modules/ROOT/pages/languagepreference.adoc[]
 
-include::modules/ROOT/pages/6.adoc[]
+include::modules/ROOT/pages/verbal.adoc[]
 
-include::modules/ROOT/pages/7.adoc[]
+include::modules/ROOT/pages/written.adoc[]
 
-include::modules/ROOT/pages/8.adoc[]
+include::modules/ROOT/pages/videos.adoc[]
 
-include::modules/ROOT/pages/9.adoc[]
+include::modules/ROOT/pages/cultural.adoc[]
 
-include::modules/ROOT/pages/10.adoc[]
+include::modules/ROOT/pages/training.adoc[]
 
-include::modules/ROOT/pages/11.adoc[]
+include::modules/ROOT/pages/qi.adoc[]
 
-include::modules/ROOT/pages/12.adoc[]
+include::modules/ROOT/pages/research.adoc[]

@@ -15,7 +15,7 @@ icon:home[] _Home Health_
 == Working with Interpreters in the Home
 * xref:verbal.adoc#in-person[In-person interpreters]:
 ** Plan to meet outside of the home and enter and leave together when possible.
-** If an in-person interpreter was scheduled for a visit, notify interpeterservices@cchmc.org if that visit is cancelled, the time changes, or the location changes.
+** If an in-person interpreter was scheduled for a visit, notify interpreterservices@cchmc.org if that visit is cancelled, the time changes, or the location changes.
 * xref:verbal.adoc#phone[Phone] and xref:verbal.adoc#video[video] interpreters:
 ** Consider using speakerphone to limit the handling of the phone during hands-on training or care.
 ** Schedule phone interpreters for xref:verbal.adoc#rare[rare languages].

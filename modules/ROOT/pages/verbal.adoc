@@ -233,7 +233,7 @@ In-person Spanish & Arabic interpreters are deployed in real-time, on-demand for
 
 * Interpreters average response time is 15 minutes. Work with a <<phone>> or <<video>> interpreter until the in-person interpreter arrives.
 
-* Interpeters will leave if you expect more than 15 minutes of downtime.
+* Interpreters will leave if you expect more than 15 minutes of downtime.
 
 ****
 
@@ -273,7 +273,7 @@ Language Access Services automatically schedules in-person interpreters for Ambu
 2. Rule out physical abuse (ROPA) and rule out sexual abuse (ROSA)
 3. Minors without parents or guardians who speak the same language
 4. End of life
-5. Home Health visits without cellular or WiFi coverage - please inform interpeterservices@cchmc.org if this is the case.
+5. Home Health visits without cellular or WiFi coverage - please inform interpreterservices@cchmc.org if this is the case.
 6. MRI
 7. Forensic interviews (e.g. Mayerson Center)
 8. Mental health group settings (e.g. College Hill)
@@ -286,7 +286,7 @@ Language Access Services automatically schedules in-person interpreters for Ambu
 
 Do not re-schedule appointments because an in-person interpreter is not available for a spoken language. Work with a phone or video interpreter instead.
 
-Contact interpeterservices@cchmc.org if:
+Contact interpreterservices@cchmc.org if:
 
 * Interpreters are routinely scheduled for too little time.
 * An interpreter fails to arrive when scheduled.
@@ -299,7 +299,7 @@ icon:home[] _Home Health_
 
 Meet the interpreter outside of the home prior to the visit. Enter and leave the home together if possible.
 
-If an in-person interpreter was scheduled for a visit, notify interpeterservices@cchmc.org if that visit is cancelled, the time changes, or the location changes.
+If an in-person interpreter was scheduled for a visit, notify interpreterservices@cchmc.org if that visit is cancelled, the time changes, or the location changes.
 
 ****
 
@@ -409,7 +409,7 @@ Possible solutions include simultaneous interpreting (https://en.wikipedia.org/w
 
 [%autowidth.stretch,frame=none,grid=none,cols="1,1"]
 |===
-| Audio and video intepreters are available on-demand for Telehealth on Microsoft Teams. For details, see https://centerlink.cchmc.org/department/interpreter-services/telemedicine
+| Audio and video interpreters are available on-demand for Telehealth on Microsoft Teams. For details, see https://centerlink.cchmc.org/department/interpreter-services/telemedicine
 a|image::{imagesdir}/amn.png[AMN Interpreting Icon,width=50]
 |===
 
@@ -424,7 +424,7 @@ For patients seen on CincyKids Health Connect, add an interpreter by following t
 ****
 icon:house[] _Home Health_
 
-For Remote Paitent Monitoring (RPM), use Teams instead of Vivify for calls where an interpreter is needed.
+For Remote Patient Monitoring (RPM), use Teams instead of Vivify for calls where an interpreter is needed.
 
 ****
 

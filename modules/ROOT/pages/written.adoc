@@ -18,7 +18,7 @@ Provide discharge instructions in the preferred language of each caregiver whene
 
 2. Only communicate verbally with help of an interpreter, relying on teach-back to ensure understanding. Provide pen and paper and ask the parent to write down key information.
 
-3. Ask the in-person interpeter to provide written translation of short discharge instructions.
+3. Ask the in-person interpreter to provide written translation of short discharge instructions.
 
 Do not translate progress notes or test results. To provide this in writing to families, summarize them in a letter using words the family can easily understand and request translation of the letter via the https://centerlink.cchmc.org/forms/interpreter-services/written-translation-request[Translation Request Form on CenterLink].
 
@@ -57,7 +57,7 @@ Provide discharge instructions in the preferred language of each caregiver whene
 
 2. Only communicate verbally with help of an interpreter, relying on teach-back to ensure understanding. Provide pen and paper and ask the parent to write down key information.
 
-3. Ask the in-person interpeter to provide written translation of short discharge instructions.
+3. Ask the in-person interpreter to provide written translation of short discharge instructions.
 
 ****
 
@@ -84,7 +84,7 @@ Provide discharge instructions in the preferred language of each caregiver whene
 
 2. Only communicate verbally with help of an interpreter, relying on teach-back to ensure understanding. Provide pen and paper and ask the parent to write down key information.
 
-3. Ask the in-person interpeter to provide written translation of short discharge instructions.
+3. Ask the in-person interpreter to provide written translation of short discharge instructions.
 
 ****
 
@@ -147,7 +147,7 @@ Useful translations include:
 
 
 * The https://www.cincinnatichildrens.org/patient-resources/app[Cincinnati Children's app] is available in Spanish and Arabic
-** https://atobe.app/photo-route?buildingId=30&homepage=true&routeLang=en[Wayfinding on the web] is also availabe in Spanish and Arabic, including QR codes for families to scan.
+** https://atobe.app/photo-route?buildingId=30&homepage=true&routeLang=en[Wayfinding on the web] is also available in Spanish and Arabic, including QR codes for families to scan.
 * https://centerlink.cchmc.org/echirp/patient-family-ed/knowing-notes[Knowing Notes]
 * https://centerlink.cchmc.org/echirp/periop/perioperative-patient-family-education[Perioperative Patient & Family Education for Procedure (Surgery)]
 * https://www.cincinnatichildrens.org/patients/visit/visiting-guidelines/rights[Visitor Guide / Patient Rights & Responsibilities]
