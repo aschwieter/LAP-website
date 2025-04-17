@@ -1,0 +1,39 @@
+= Language Access Plan
+Cincinnati Children's
+v0.10 April 17, 2025
+:toc: auto
+:data-uri:
+:icons: font
+:inconset: fas
+:toclevels: 3
+:sectnums: all
+:doctype: book
+:leveloffset: 1
+:!chapter-signifier:
+:imagesdir: ../images
+
+
+
+include::index.adoc[]
+
+include::policy.adoc[]
+
+include::inpatientQR.adoc[]
+
+include::homehealthQR.adoc[]
+
+include::languagepreference.adoc[]
+
+include::verbal.adoc[]
+
+include::written.adoc[]
+
+include::videos.adoc[]
+
+include::cultural.adoc[]
+
+include::training.adoc[]
+
+include::qi.adoc[]
+
+include::research.adoc[]
