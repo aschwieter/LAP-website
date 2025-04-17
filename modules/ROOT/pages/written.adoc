@@ -106,7 +106,10 @@ Translate commonly used patient- and family-facing forms, resources, and https:/
 [discrete]
 === Patient/Encounter Specific
 
-Do not request translation for AVSs. Instead communicate verbally. Use https://cchmc.service-now.com/is?id=kb_article_view&sysparm_article=KB0013699[Epic templated translations] when available.
+Do not request translation for all AVSs. Instead communicate verbally. Use https://cchmc.service-now.com/is?id=kb_article_view&sysparm_article=KB0013699[Epic templated translations] when available. Only request translation for AVSs when:
+
+1. You have a secure method for getting the translation to the family.
+2. The information on the AVS will still be accurate and relevant by the time the family receives the translation.
 
 Do not translate progress notes, reports, or test results. To provide this in writing to families, summarize them in a letter using words the family can easily understand and request translation of the letter via the https://centerlink.cchmc.org/forms/interpreter-services/written-translation-request[Translation Request Form on CenterLink].
 
