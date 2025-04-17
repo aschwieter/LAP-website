@@ -3,13 +3,14 @@ Cincinnati Children's
 v0.10 April 16, 2025
 :toc: auto
 :data-uri:
-:icons: image
+:icons: font
 :inconset: fas
 :toclevels: 3
 :sectnums: all
 :doctype: book
 :leveloffset: 1
 :!chapter-signifier:
+:imagesdir: images
 
 
 
