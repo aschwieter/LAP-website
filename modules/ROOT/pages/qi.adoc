@@ -9,12 +9,12 @@ There is also a Spanish-Speaking Family Forum to discuss issues and co-create so
 == Current and Past QI Projects
 
 * icon:hospital[] Acute/Critical Care:
-** https://doi.org/10.1542/hpeds.2021-005981[Improving Discharge Instructions for Hospitalized Children With Limited English Proficiency]
+** https://doi.org/10.1542/hpeds.2021-005981[Improving Discharge Instructions for Hospitalized Children with Limited English Proficiency]
 ** mailto:Sally.Muskett@cchmc.org[Sally Muskett]'s RCIC NICU Discharge
 ** Multi-language patient welcome videos
 * icon:store[] Ambulatory:
 ** Telehealth Spanish QI lead by Courtney Sump
-** DEI Fellows (audiology, speech, ot/pt)
+** DEI Fellows (Audiology, Speech, OT/PT)
 * icon:plus[] Emergency Services:
 ** Equity dashboard
 ** https://pxjournal.org/journal/vol11/iss3/16/[A Quality Improvement Initiative Using Discharge Education Videos to Improve Communication with Families in a Pediatric Urgent Care]

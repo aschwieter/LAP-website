@@ -89,11 +89,11 @@ Use speakerphone or pass the phone back and forth.
 If the language you need is not available, follow the https://centerlink.cchmc.org/department/interpreter-services/rare-languages[Rare Language Process on CenterLink].
 
 [[DIAL]]
-NOTE: When families call us, they should use the language-specific https://centerlink.cchmc.org/department/interpreter-services/dial-direct-interpreter-access-line[Direct Intepreter Access Lines] (if available for their language) which connect with an interpreter and then the Cincinnati Children's operator. Avoid directing families to phone trees whenever possible since they are difficult to navigate with an interpreter on the line.
+NOTE: When families call us, they should use the language-specific https://centerlink.cchmc.org/department/interpreter-services/dial-direct-interpreter-access-line[Direct Interpreter Access Lines] (if available for their language) which connect with an interpreter and then the Cincinnati Children's operator. Avoid directing families to phone trees whenever possible since they are difficult to navigate with an interpreter on the line.
 
 [.filter-home-health]
 ****
-icon:house[] _Home Health_
+icon:home[] _Home Health_
 
 When working in the community, if you phone calls are not working due to inadequate cell service, use a <<vide,video interpreter>> instead.
 
@@ -162,7 +162,7 @@ Open a ticket with the Service Desk at 6-4100 so the issue can be fixed.
 
 [.filter-home-health]
 ****
-icon:house[] _Home Health_
+icon:home[] _Home Health_
 
 If video functionality is spotty, change to audio only. 
 
@@ -231,7 +231,7 @@ In-person Spanish & Arabic interpreters are deployed in real-time, on-demand for
 
 * To place a request, voalte the _Interpreter Flow Lead_ or use the Service Tasks button in Epic. See the https://cchmc.service-now.com/is?id=kb_article_view&sysparm_article=KB0035655[job aid] for more details.
 
-* Interpreters average response time is 15 minutes. Work with a <<phone>> or <<video>> interpreter until the in-person interpreter arrives.
+* Interpreters' average response time is 15 minutes. Work with a <<phone>> or <<video>> interpreter until the in-person interpreter arrives.
 
 * Interpreters will leave if you expect more than 15 minutes of downtime.
 
@@ -263,7 +263,7 @@ Arabic interpreters may offer to interpret over-the-phone if that's more appropr
 
 [.filter-ambulator.filter-periop.filter-home-health.filter-radiology.filter-mental-health]
 ****
-icon:store[] _Ambulatory_  icon:syringe[] _Periop_  icon:house[] _Home Health_  icon:radiation[] _Radiology_  icon:brain[] _Outpatient Mental Health_
+icon:store[] _Ambulatory_  icon:syringe[] _Periop_  icon:home[] _Home Health_  icon:radiation[] _Radiology_  icon:brain[] _Outpatient Mental Health_
 
 [discrete]
 ==== All Other Languages, Times, or Locations
@@ -393,7 +393,7 @@ When seconds matter and an interpreter isn't already present, call (or ask a col
 
 Do not use Google Translate, CoPilot, ChatGPT, or any other automated translation tool. It is https://www.hhs.gov/sites/default/files/ocr-dcl-section-1557-language-access.pdf[against federal law] because it is https://pmc.ncbi.nlm.nih.gov/articles/PMC11729812/[not accurate enough] and therefore https://jamanetwork.com/journals/jama/fullarticle/2823653[puts patient safety at risk].
 
-In an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no qualified interpreter immediately available, an adult or minor child may interpret or facilitate communication as a temporary measure while finding a qualified interpreter. The qualified interpreter (in-person, phone, or video) that eventually arrives must confirm or supplement the initial communication that occured via the non-qualified interpreter.
+In an emergency involving an imminent threat to the safety or welfare of an individual or the public where there is no qualified interpreter immediately available, an adult or minor child may interpret or facilitate communication as a temporary measure while finding a qualified interpreter. The qualified interpreter (in-person, phone, or video) that eventually arrives must confirm or supplement the initial communication that occurred via the non-qualified interpreter.
 
 == Waiting Rooms
 
@@ -422,7 +422,7 @@ For patients seen on CincyKids Health Connect, add an interpreter by following t
 
 [.filter-home-health]
 ****
-icon:house[] _Home Health_
+icon:home[] _Home Health_
 
 For Remote Patient Monitoring (RPM), use Teams instead of Vivify for calls where an interpreter is needed.
 
@@ -448,4 +448,4 @@ A single solution works for all of them: talk to the interpreter directly about 
 
 Report problems via the https://centerlink.cchmc.org/forms/interpreter-services/interpreter-complaint-form[Interpreter Complaint Form on CenterLink].
 
-For urgent sitations, call Language Access Services at 513-636-1444.
+For urgent situations, call Language Access Services at 513-636-1444.

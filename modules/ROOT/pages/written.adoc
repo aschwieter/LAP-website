@@ -4,11 +4,11 @@
 == Acute/Critical Care, Home Health, and Inpatient/Residential Mental Health [[inpatient]]
 
 ****
-icon:hospital[] _Acute/Critical Care_  icon:house[] _Home Health_  icon:brain[] _Inpatient/Residential Mental Health_
+icon:hospital[] _Acute/Critical Care_  icon:home[] _Home Health_  icon:brain[] _Inpatient/Residential Mental Health_
 
 Consider literacy and health literacy before providing written translations. These needs are documented in the https://cchmc.service-now.com/is?id=kb_article_view&sysparm_article=KB0012321[Learning Assessment].
 
-Translate commonly-used patient- and family-facing forms, resources, and education materials into languages that are used by 1% or more of patients seen on the unit.
+Translate commonly used patient- and family-facing forms, resources, and education materials into languages that are used by 1% or more of patients seen on the unit.
 
 Provide discharge instructions in the preferred language of each caregiver whenever possible. Follow the https://cchmc.service-now.com/is?id=kb_article_view&sysparm_article=KB0013699[Epic Job Aid]. In the absence of translated discharge instructions, we can:
 
@@ -47,7 +47,7 @@ Consider assessing health literacy by asking a question such as:
    * "How confident are you filling out medical forms by yourself?”
    * "How often do you have problems learning about your medical condition because of difficulty with written information?"
 
-Translate commonly-used patient- and family-facing forms, resources, and https://centerlink.cchmc.org/patient-services/patient-and-family-education/home[education materials] into languages that are used by 1% or more of patients seen in Emergency Services.
+Translate commonly used patient- and family-facing forms, resources, and https://centerlink.cchmc.org/patient-services/patient-and-family-education/home[education materials] into languages that are used by 1% or more of patients seen in Emergency Services.
 
 Provide discharge instructions in the preferred language of each caregiver whenever possible with AVS attachments. In the absence of translated discharge instructions, we can:
 
@@ -74,7 +74,7 @@ Consider assessing health literacy by asking a question such as:
    * "How confident are you filling out medical forms by yourself?”
    * "How often do you have problems learning about your medical condition because of difficulty with written information?"
 
-Translate commonly-used patient- and family-facing forms, resources, and https://centerlink.cchmc.org/patient-services/patient-and-family-education/home[education materials] into languages that are used by 1% or more of patients seen in Periop.
+Translate commonly used patient- and family-facing forms, resources, and https://centerlink.cchmc.org/patient-services/patient-and-family-education/home[education materials] into languages that are used by 1% or more of patients seen in Periop.
 
 Provide discharge instructions in the preferred language of each caregiver whenever possible with Knowing Notes. In the absence of translated discharge instructions, we can:
 
@@ -101,7 +101,7 @@ Consider assessing health literacy by asking a question such as:
    * "How confident are you filling out medical forms by yourself?”
    * "How often do you have problems learning about your medical condition because of difficulty with written information?"
 
-Translate commonly-used patient- and family-facing forms, resources, and https://centerlink.cchmc.org/patient-services/patient-and-family-education/home[education materials] into languages that are used by 1% or more of patients seen in the clinic.
+Translate commonly used patient- and family-facing forms, resources, and https://centerlink.cchmc.org/patient-services/patient-and-family-education/home[education materials] into languages that are used by 1% or more of patients seen in the clinic.
 
 [discrete]
 === Patient/Encounter Specific
@@ -165,7 +165,7 @@ Useful translations include:
 * icon:syringe[] Periop:
 ** https://centerlink.cchmc.org/echirp/patient-family-ed/knowing-notes/periop-surgery[Knowing Notes]
 ** The Periop folder is available in Spanish and Arabic
-* icon:house[] Home Health:
+* icon:home[] Home Health:
 ** HHC Folders in Spanish and Arabic
 
 
