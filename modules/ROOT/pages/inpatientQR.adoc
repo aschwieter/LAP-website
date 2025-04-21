@@ -21,7 +21,7 @@ Plan in advance for rounds by:
 ** What time will they be available for rounds?
 2. xref:verbal.adoc#accessing_inperson_interpreters[Requesting an in-person interpreter]. Consider: 
 ** Does your team or unit need to work with the in-person interpreter for multiple patients?
-** Will other members of your multidisciplinary team need to time work with the in-person interpreter during that visit
+** Will other members of your multidisciplinary team need time to work with the in-person interpreter during that visit
 ** Units that designate a role that is responsible for this have more success with obtaining in-person interpreters.
 
 When a family is not at bedside, consider xref:verbal.adoc#outbound-phone-calls[calling them with a phone interpreter].
