@@ -1,6 +1,6 @@
 = Language Access Plan
 Cincinnati Children's
-v0.10 April 17, 2025
+v1.0, April 22, 2025
 :toc: auto
 :data-uri:
 :icons: font
@@ -11,6 +11,7 @@ v0.10 April 17, 2025
 :leveloffset: 1
 :!chapter-signifier:
 :imagesdir: ../images
+:noindex:
 
 
 
